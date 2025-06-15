@@ -58,7 +58,7 @@ This tool is ideal for:
 
 ## 📸 Screenshot
 
-![Market Sentiment Analyzer Screenshot](https://i.imgur.com/k49U1rG.png)
+![Market Sentiment Analyzer Screenshot](https://github.com/user-attachments/assets/3e70c8c0-4bb6-4ca6-90f4-851d871d6973)
 
 ---
 
