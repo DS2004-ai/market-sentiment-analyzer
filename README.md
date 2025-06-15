@@ -1,5 +1,7 @@
 # 📊 Market Sentiment Analyzer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Analyze stock price trends alongside news sentiment to generate a trading signal — all in one dashboard.
 
 ## 🚀 Live App
@@ -84,7 +86,12 @@ If you’d like to connect, feel free to [message me on GitHub](https://github.c
 
 ---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ## ⭐️ Give it a Star
 
 If you find this project useful, give it a ⭐️ on GitHub to support it!
-
