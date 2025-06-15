@@ -23,6 +23,7 @@ def create_sentiment_chart(df, ticker_symbol):
 
 # --- Streamlit App Layout ---
 st.title("Market Sentiment Analyzer 📈")
+st.caption("Developed by Roderick Mireku — turning news into trading signals using data science.")
 st.sidebar.header("User Input")
 
 ticker_symbol = st.sidebar.text_input("Enter a Stock Ticker", "AAPL").upper()
