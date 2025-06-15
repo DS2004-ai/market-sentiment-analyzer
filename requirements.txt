@@ -1,5 +1,3 @@
-# Specify a stable Python version
-python==3.11
 
 # App Libraries
 pandas
@@ -8,4 +6,4 @@ newsapi-python
 vaderSentiment
 streamlit
 plotly
-requests==2.31.0
+
